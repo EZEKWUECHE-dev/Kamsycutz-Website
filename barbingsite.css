@@ -84,7 +84,7 @@
 /* hero section */
 .hero{
     
-  background-image: url('./Downloads/ace-maxwell-alPVAV3zMMI-unsplash.jpg');
+  background-image: url('./ace-maxwell-alPVAV3zMMI-unsplash.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -338,7 +338,7 @@ p {
 
 .appointment {
   position: relative;
-  background: url('./Downloads/obi--sRVfY0f2d8-unsplash.jpg') center/cover no-repeat;
+  background: url('./obi--sRVfY0f2d8-unsplash.jpg') center/cover no-repeat;
   color: white;
   padding: 80px 20px;
 }
@@ -515,7 +515,7 @@ p {
 
 
 .testimonials {
-  background-image: url('./Downloads/obi--sRVfY0f2d8-unsplash.jpg');
+  background-image: url('./obi--sRVfY0f2d8-unsplash.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -943,6 +943,7 @@ p {
   }
   }
  
+
 
 
 
